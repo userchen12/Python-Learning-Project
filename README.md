@@ -1,2 +1,2 @@
-# little_works
-只是学习的小练习
+# Python 练习项目
+只是为练习
